@@ -5,10 +5,7 @@ resilient, and affordable communication systems. Here are a few example
 scenarios that demonstrate how these technologies can work in the real 
 world:
 
----
-
-## :cow2: Automated Milk Pickup Notification (Machine-to-Machine - 
-## :Reticulum)
+## :cow2: Automated Milk Pickup Notification (Machine-to-Machine)
 
 A dairy farmer in a remote alpine village uses a sensor connected to a 
 local Reticulum node. Once the milk reaches the right temperature and 
@@ -22,10 +19,7 @@ This allows:
 - Zero reliance on cloud services  
 - Energy-efficient, local-first digital logistics
 
----
-
-## :boot: Trail Coordination Between Cabin and Guide (Person-to-Person -
-## :Meshtastic)
+## :boot: Trail Coordination Between Cabin and Guide (Person-to-Person)
 
 A hiking guide leading a group through a high-altitude trail checks in 
 with a mountain cabin to confirm weather and timing. Using low-cost LoRa 
@@ -36,8 +30,6 @@ This setup enables:
 - Safe, low-bandwidth coordination  
 - No reliance on cellular or satellite networks  
 - Affordable devices (~€35) with no recurring fees
-
----
 
 ## :grey_question: Why Not Just Use 5G or Starlink?
 

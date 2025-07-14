@@ -1,5 +1,4 @@
-# Alpine Networks Manifesto: Empowering Communities Through Open 
-# Technology
+# Alpine Networks Manifesto: Empowering Communities Through Open Technology
 > _A blueprint for ethical, sustainable, community-first networking in 
 > the age of digital overreach._
 
