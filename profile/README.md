@@ -8,7 +8,7 @@
 > build their own resilient, sustainable communication systems. We 
 > promote low-power, offline-first tools like mesh networks, local data 
 > centers, and BBS-style messaging to support self-sufficiency, local 
-> autonomy, and digital resilience—free from commercial dependencies.
+> autonomy, and digital resilience, free from commercial dependencies.
 
 In a world where global connectivity is often driven by commercial 
 interests, we believe that **local communities**, especially those in 
@@ -172,5 +172,3 @@ own way.
 
 **Contact:** info -at- alpinenetworks.org  
 **Brought to you by:** :tulip: Tara, aka *Tulpe della montagna*
-
-
