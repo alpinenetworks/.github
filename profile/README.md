@@ -21,7 +21,7 @@ communication technologies**, **local computing**, and **sustainable
 infrastructure**.
 
 At the heart of **Alpine Networks** is the belief that **communities**, 
-whether mountain villages, rural towns, or other remote areas—should 
+whether mountain villages, rural towns, or other remote areas, should 
 have the tools and infrastructure they need to build their own networks 
 and services, free from commercial influence. This is a **non-profit, 
 personal initiative**, a way for me to give back and provide 
